@@ -15,8 +15,8 @@ header('Content-Type: text/html; charset=UTF-8');
 date_default_timezone_set("PRC");
 define("REPO","piccdn");
 define("USER","MARYNAOSOKINA");
-define("MAIL","obzyshyelvg7@163.com");
-define("TOKEN","b03f97389033ec0aecb8d502e7d08f85e7fffd07");
+define("MAIL","");
+define("TOKEN","");
 
 function upload($url, $content)
 {
